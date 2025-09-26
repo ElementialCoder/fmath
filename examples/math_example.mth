@@ -1,0 +1,2 @@
+# Example math script for the fmath compiler/interpreter
+sin(3)

@@ -1,0 +1,3 @@
+def square(x) = x^2
+var s = sum(from: 1, to: 5, para: i, square(i))
+s

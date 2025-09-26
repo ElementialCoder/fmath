@@ -1,0 +1,11 @@
+# Example script for random real and random integer
+# Assign a random real number to x
+var x = rand()
+# Assign a random integer between 10 and 20 to y
+var y = randint(10, 20)
+# Use x in a function and assign to z
+var z = sin(x)
+# Add y and z, assign to w
+var w = y + z
+# Output the result
+w

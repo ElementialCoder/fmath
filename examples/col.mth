@@ -1,0 +1,3 @@
+def rama(n) = (4*n)!*(1103+26390*n)/((((n*4)!)^4)*396^(4*n))
+var pi_conjugate = sum(from: 0,to: 20,para: x,rama(x))*2*2^(1/2)/9801
+1/pi_conjugate

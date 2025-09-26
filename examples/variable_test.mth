@@ -1,0 +1,5 @@
+# Variable assignment and usage example
+var x = 5
+var y = sin(x)
+var z = y + 2
+z
